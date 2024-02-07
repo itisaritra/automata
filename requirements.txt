@@ -2,5 +2,4 @@ streamlit
 selenium
 pytesseract
 pandas
-time
 pillow
